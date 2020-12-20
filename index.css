@@ -37,3 +37,7 @@ footer {
   width: 100vw;
   height: 100vh;
 }
+.setWidth {
+  flex-basis: 100px;
+  flex-grow: 1;
+}
